@@ -1,5 +1,7 @@
 # Retail Sales Analysis
+## Dashboard
 
+![Retail Sales Dashboard](Screenshot%202026-09-25%20124109.png)
 ## Project Overview
 
 This project analyzes **1,000 retail sales transactions** using Microsoft Excel to understand revenue performance, product demand, customer behavior, branch performance, gender purchasing patterns, and extreme-spend transactions.
