@@ -194,7 +194,7 @@ Based on the analysis:
 ```text
 Retail-Sales-Analysis/
 │
-├── BIG_Sales_Dataset Project.xlsx
+├── Retail_Sales_Analysis.xlsx
 ├── README.md
 └── screenshots/
     └── retail-dashboard.png
