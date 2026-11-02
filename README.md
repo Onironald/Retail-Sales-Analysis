@@ -25,7 +25,7 @@ The analysis focuses on questions such as:
 
 ## Dataset Overview
 
-The workbook contains a **Dataset** sheet with 1,000 transaction records and 19 columns.
+The workbook contains a **Dataset** sheet with 1,000 transaction records and 13 columns.
 
 ### Core Fields
 
@@ -129,13 +129,11 @@ The dataset records higher total revenue from male customers.
 
 ### 6. Branch Performance
 
-| Branch |    Revenue |
-| ------ | ---------: |
-| A      | $42,584.71 |
-| C      | $40,226.93 |
+| C      | $42,584.71 |
+| A      | $40,226.93 |
 | B      | $35,772.26 |
 
-Branch A recorded the highest total revenue, while Branch B recorded the lowest.
+**Branch C recorded the highest revenue**, followed by Branch A and Branch B.
 
 ### 7. Outlier Analysis
 
